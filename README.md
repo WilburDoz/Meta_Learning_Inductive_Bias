@@ -10,4 +10,4 @@ We use the following packages:
 5. Scipy
 6. Geomloss
 
-Code for the spiking figure coming soon!
+Code for the spiking figure (figure 5) coming soon!
