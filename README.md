@@ -7,5 +7,5 @@ We use the following packages:
 2. Numpy
 3. Torch
 4. Matplotlib
-5. Scipt
+5. Scipy
 6. Geomloss
