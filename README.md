@@ -9,3 +9,5 @@ We use the following packages:
 4. Matplotlib
 5. Scipy
 6. Geomloss
+
+Code for the spiking figure coming soon!
