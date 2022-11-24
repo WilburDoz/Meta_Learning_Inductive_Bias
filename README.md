@@ -3,9 +3,9 @@ Code to accompany "Meta-Learning the Inductive Bias of Simple Neural Circuits", 
 
 We use the following packages:
 
-Jupyter notebooks
-Numpy
-Torch
-Matplotlib
-Scipt
-Geomloss
+1. Jupyter notebooks
+2. Numpy
+3. Torch
+4. Matplotlib
+5. Scipt
+6. Geomloss
